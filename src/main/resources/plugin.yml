@@ -1,0 +1,4 @@
+name: Landmine
+version: @version@
+main: com.github.chaosindustry.landmine.Landmine
+api-version: 1.15
